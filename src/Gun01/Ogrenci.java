@@ -13,6 +13,7 @@ public class Ogrenci {
 
         for (int i = 0; i < 3; i++) {
             System.out.println("ROLEX");
+            System.out.println("MEINEM");
         }
     }
 }
